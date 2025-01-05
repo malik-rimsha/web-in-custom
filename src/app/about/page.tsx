@@ -4,6 +4,7 @@ export default function About (){
         <div className="homeContainer">
             <div className="aboutThem">
                 <h1>Our story</h1>
+                <h2>malik rimsha</h2>
                 <p><b> RD</b> Organic Hair Oil was founded with a passion for pure, natural <br />
                  hair care. Inspired by traditional remedies and the belief that nature holds the <br /> 
                  key to beauty, we set out to create oils that are as kind to your hair as they are to <br /> 
